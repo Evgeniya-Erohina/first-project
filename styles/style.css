@@ -43,7 +43,7 @@
         padding: 0;
     }
 
-    .link {
+    .header__link {
         color: #2f80ed;
         text-decoration: none;
     }
@@ -232,6 +232,8 @@
         position: absolute;
         top: 50%;
         right: 48px;
+        color: #2f80ed;
+        text-decoration: none;
     }
     /* и элемента с модификатором вида ключ-значение */
 
@@ -318,11 +320,12 @@
     }
 
     .footer__column-links {
-        padding-left: 0;
         margin-bottom: 16px;
         font-size: 18px;
         font-weight: normal;
         line-height: 30px;
+        list-style: none;
+        padding: 0;
     }
 
     .footer__social-icon {
