@@ -1,0 +1,17 @@
+.header__square-pic {
+    height: 568px;
+    width: 568px;
+    position: absolute;
+    background-color: #2f80ed;
+    z-index: 0;
+    top: 0;
+    right: 0;
+    margin-top: 64px;
+    animation-name: rotation;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+}
+
+.header__square-pic:hover {
+    animation: none;
+}
