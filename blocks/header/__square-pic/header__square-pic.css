@@ -6,12 +6,5 @@
     z-index: 0;
     top: 0;
     right: 0;
-    margin-top: 64px;
-    animation-name: rotation;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
-}
-
-.header__square-pic:hover {
-    animation: none;
+    top: 64px;
 }

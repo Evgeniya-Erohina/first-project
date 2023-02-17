@@ -10,7 +10,4 @@
     margin: auto;
     background-image: url("../../../images/kaufman-triangle.svg");
     background-size: contain;
-    animation-name: rotation;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
 }

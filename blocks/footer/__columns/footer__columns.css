@@ -2,9 +2,9 @@
     width: 90%;
     margin: auto;
     display: flex;
-    flex-wrap: nowrap;
+    flex-direction: row;
     justify-content: space-between;
-    align-items: stretch;
-    position: relative;
-    flex-basis: 711px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    box-sizing: border-box;
 }
