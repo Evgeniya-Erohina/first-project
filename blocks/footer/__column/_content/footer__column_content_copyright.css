@@ -1,5 +1,5 @@
 .footer__column_content_copyright {
     flex-basis: 711px;
     position: relative;
-    justify-content: flex-end;
+    justify-content: space-between;
 }
